@@ -20,6 +20,9 @@ User-Friendly Dashboard: Develop a user-friendly Tableau dashboard that allows u
 
 Working:
 
-Check it out at : https://public.tableau.com/app/profile/abhishek.sebastian/viz/DiscountMartSalesAnalytics_16929481025300/Dashboard1
+Check it out at : https://public.tableau.com/app/profile/abhishek.sebastian/viz/DiscountMartSalesAnalytics_16929603195450/Dashboard1
+
+
+<img width="1440" alt="Screenshot 2023-08-25 at 4 16 32 PM" src="https://github.com/abby1712/DMart-Sales-Analytics/assets/72368959/578084ee-1494-4b3f-a799-458ba2b15430">
 
 
